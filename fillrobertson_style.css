@@ -1,0 +1,26 @@
+.logo {
+    color: #000000;
+    margin-left: 20px;
+    font-family: "Europa";
+    font-size: 50pt;
+}
+
+.background-blue {
+    background-color: blue;
+    min-height: 30px;
+}
+
+.background-red {
+    background-color: red;
+    min-height: 30px;
+}
+
+.background-green {
+    background-color: green;
+    min-height: 30px;
+}
+
+.background-yellowgreen {
+    background-color: yellowgreen;
+    min-height: 30px;
+}
